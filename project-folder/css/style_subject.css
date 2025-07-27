@@ -1,0 +1,35 @@
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid rgb(84, 81, 81);
+    height: 70px;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    width: 350px;
+}
+body {
+    margin: 100px;
+}
+a {
+    font-size: 30px;
+}
+td {
+    text-align: center;
+}
+th {
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(198, 223, 237);
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 36px;
+}
+caption {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
